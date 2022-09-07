@@ -1,0 +1,7 @@
+﻿  info_protection_lab_1.cpp
+C:\Users\vld85\source\repos\info_protection_lab_1\info_protection_lab_1\info_protection_lab_1.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\vld85\source\repos\info_protection_lab_1\info_protection_lab_1\info_protection_lab_1.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\vld85\source\repos\info_protection_lab_1\info_protection_lab_1\info_protection_lab_1.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\vld85\source\repos\info_protection_lab_1\info_protection_lab_1\info_protection_lab_1.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\vld85\source\repos\info_protection_lab_1\info_protection_lab_1\info_protection_lab_1.cpp(20,14): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  info_protection_lab_1.vcxproj -> C:\Users\vld85\source\repos\info_protection_lab_1\Debug\info_protection_lab_1.exe
