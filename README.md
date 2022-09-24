@@ -12,8 +12,8 @@
 
 | Номер  | ССЫЛКА |
 | ------ | ------ |
-| Лаб.1 | [https://github.com/Vladislavhgtech/data_protection_miet/tree/main/info_protection_lab_1][PlDb] |
-| Лаб.2 | [https://github.com/Vladislavhgtech/data_protection_miet/tree/main/info_protection_lab_2][PlGh] |
+| Лаб.1 | https://github.com/Vladislavhgtech/data_protection_miet/tree/main/info_protection_lab_1 |
+| Лаб.2 | https://github.com/Vladislavhgtech/data_protection_miet/tree/main/info_protection_lab_2 |
 
 
 
