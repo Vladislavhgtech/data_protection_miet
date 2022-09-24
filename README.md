@@ -13,7 +13,7 @@
 | Номер  | ССЫЛКА |
 | ------ | ------ |
 | Лаб.1 | [https://github.com/Vladislavhgtech/data_protection_miet/tree/main/info_protection_lab_1][PlDb] |
-| Лаб.2 | [plugins/github/README.md][PlGh] |
+| Лаб.2 | [https://github.com/Vladislavhgtech/data_protection_miet/tree/main/info_protection_lab_2][PlGh] |
 
 
 
