@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "info_protection_lab_3/1.0.0": {
+        "runtime": {
+          "info_protection_lab_3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "info_protection_lab_3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

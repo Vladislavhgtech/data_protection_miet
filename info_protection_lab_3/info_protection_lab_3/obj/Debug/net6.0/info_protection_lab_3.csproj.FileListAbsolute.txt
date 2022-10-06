@@ -1,0 +1,15 @@
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\bin\Debug\net6.0\info_protection_lab_3.exe
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\bin\Debug\net6.0\info_protection_lab_3.deps.json
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\bin\Debug\net6.0\info_protection_lab_3.runtimeconfig.json
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\bin\Debug\net6.0\info_protection_lab_3.dll
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\bin\Debug\net6.0\info_protection_lab_3.pdb
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\info_protection_lab_3.csproj.AssemblyReference.cache
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\info_protection_lab_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\info_protection_lab_3.AssemblyInfoInputs.cache
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\info_protection_lab_3.AssemblyInfo.cs
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\info_protection_lab_3.csproj.CoreCompileInputs.cache
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\info_protection_lab_3.dll
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\refint\info_protection_lab_3.dll
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\info_protection_lab_3.pdb
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\info_protection_lab_3.genruntimeconfig.cache
+C:\Users\vld85\source\repos\info_protection_lab_3\info_protection_lab_3\obj\Debug\net6.0\ref\info_protection_lab_3.dll
